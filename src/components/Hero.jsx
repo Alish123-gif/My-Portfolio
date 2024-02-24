@@ -10,12 +10,12 @@ const Hero = () => {
       className={`absolute inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
     >
       <div className='flex flex-col justify-center items-center mt-5'>
-      <div className='w-14 sm:h-[175px] h-40 bg-gradient-to-r from-red-800' />
+      <div className='w-14 sm:h-[200px] h-40 bg-gradient-to-r from-red-800' />
       </div>
 
       <div>
         <h1 className={`${styles.heroHeadText} text-white`}>
-          Hi, I'm <span className='text-red-800'>Ali</span>
+          Hi, I'm <span className='text-red-800'>Ali </span>Shibli
         </h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
         I develope 3D visuals, user <br className='sm:block hidden' />
