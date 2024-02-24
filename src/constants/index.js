@@ -20,6 +20,7 @@ import {
     python,
     unity,
     java,
+    SpaceShooter,
   } from "../assets";
   
   export const navLinks = [
@@ -192,25 +193,29 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Space Shooter",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Engage in intense space battles with our sleek 2D shooter, combining responsive controls and vibrant graphics for a professional gaming experience",
       tags: [
         {
-          name: "react",
+          name: "Unity",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "C#",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Animations",
           color: "pink-text-gradient",
         },
+        {
+          name: "Post-Processing",
+          color: "blue-text-gradient",
+        },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: SpaceShooter,
+      source_code_link: "https://github.com/Alish123-gif/SpaceShooter",
     },
     {
       name: "Trip Guide",
