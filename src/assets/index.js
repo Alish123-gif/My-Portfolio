@@ -25,7 +25,7 @@ import programmer from "./company/programmer.png";
 import InfiniteRealm from "./company/InfiniteRealm.png";
 
 import AfterTheFall from "./AfterTheFall.webp";
-import jobit from "./jobit.png";
+import SpaceShooter from "./SpaceShooter.png";
 import tripguide from "./tripguide.png";
 
 export {
