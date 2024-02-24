@@ -52,6 +52,6 @@ export {
   programmer,
   InfiniteRealm,
   AfterTheFall,
-  jobit,
+  SpaceShooter,
   tripguide,
 };
