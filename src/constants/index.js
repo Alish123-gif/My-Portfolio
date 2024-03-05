@@ -194,7 +194,7 @@ import {
     {
       name: "Space Shooter",
       description:
-        "Engage in intense space battles with our sleek 2D shooter, combining responsive controls and vibrant graphics for a professional gaming experience",
+        "Engage in intense space battles with my sleek 2D shooter, combining responsive controls and vibrant graphics for a cool gaming experience",
       tags: [
         {
           name: "Unity",
