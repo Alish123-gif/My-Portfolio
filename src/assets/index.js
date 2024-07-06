@@ -26,7 +26,7 @@ import InfiniteRealm from "./company/InfiniteRealm.png";
 
 import AfterTheFall from "./AfterTheFall.webp";
 import SpaceShooter from "./SpaceShooter.png";
-import tripguide from "./tripguide.png";
+import workoutplanner from "./workoutplanner.png";
 
 export {
   django,
@@ -53,5 +53,5 @@ export {
   InfiniteRealm,
   AfterTheFall,
   SpaceShooter,
-  tripguide,
+  workoutplanner,
 };

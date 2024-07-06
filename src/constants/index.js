@@ -13,7 +13,7 @@ import {
     programmer,
     InfiniteRealm,
     AfterTheFall,
-    tripguide,
+    workoutplanner,
     threejs,
     django,
     python,
@@ -217,25 +217,25 @@ import {
       source_code_link: "https://github.com/Alish123-gif/SpaceShooter",
     },
     {
-      name: "Trip Guide",
+      name: "Workout Planner",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Plan your workouts with this easy-to-use web app, featuring a sleek design and intuitive interface.",
       tags: [
         {
-          name: "nextjs",
+          name: "reactjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "javascript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: workoutplanner,
+      source_code_link: "https://github.com/Alish123-gif/workoutplanner",
     },
   ];
   
